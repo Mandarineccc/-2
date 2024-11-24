@@ -41,8 +41,8 @@
 ....
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![задание1](https://github.com/Mandarineccc/-2/blob/main/зад1.png)
+При необходимости прикрепитe сюда скриншоты
+[задание1](https://github.com/Mandarineccc/-2/blob/main/зад1.png)
 [задание 2-3](https://github.com/Mandarineccc/-2/blob/main/зад%202-3.png)
 [задание 4](https://github.com/Mandarineccc/-2/blob/main/зад%204.png)
 
